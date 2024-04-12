@@ -1,0 +1,3 @@
+C:/Users/joeyd/Desktop/githubprojs/roster_app/cmake-build-debug/CMakeFiles/roster_app.dir
+C:/Users/joeyd/Desktop/githubprojs/roster_app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joeyd/Desktop/githubprojs/roster_app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
